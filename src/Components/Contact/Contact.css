@@ -1,0 +1,10 @@
+.contact{
+    text-align: center;
+    box-shadow: 10px 10px 10px gray;
+    margin: 15px;
+    padding: 30px;
+    width: 500px;
+}
+.contact:hover{
+    background-color: lightgrey;
+}

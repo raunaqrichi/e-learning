@@ -1,0 +1,14 @@
+.img{
+    height: 170px;
+    width: 150px;
+    margin: 5px;
+    padding: 5px;
+}
+.course{
+    text-align: center;
+    box-shadow: 10px 10px 10px rgb(100, 139, 155);
+    background-color: rgb(246, 250, 252);
+}
+.course:hover{
+    background-color: rgb(243, 223, 223);
+}
