@@ -22,13 +22,15 @@ const Footer = () =>{
                     <h1 className='text-secondary'>
                         Lets Get Social
                     </h1>
-                    <strong>
+                   <h1>
+                   <strong>
                     <i class="fab fa-facebook-square mx-3 text-white"></i>
                     <i class="fab fa-instagram-square mx-3 text-white"></i>
                     <i class="fab fa-twitter-square mx-3 text-white"></i>
                     <i class="fab fa-whatsapp-square mx-3 text-white"></i>
                     <i class="fab fa-youtube-square mx-3 text-white"></i>
                     </strong>
+                   </h1>
                 </div>
                 <h3 className='text-secondary'>Copyright ©2021 All rights reserved by E-Learning</h3>
             </div>

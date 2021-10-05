@@ -65,6 +65,7 @@ const Header = () =>{
                 <h1>
                     <strong>With Us!</strong>
                 </h1>
+                <button className='btn btn-secondary p-3'>Get Started <i class="fas fa-arrow-right"></i></button>
             </div>
             <div>
         <Image src={image} fluid />
