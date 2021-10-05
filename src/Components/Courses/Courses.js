@@ -10,7 +10,7 @@ const Courses = () =>{
     } ,[])
     return(
         <div>
-            <h1 className='w-50 mx-auto'>All Of Our Courses</h1>
+            <h1 className='about'>All Of Our Courses</h1><hr/>
 
            <div  className='container'>
            {

@@ -3,7 +3,11 @@ import '../Contact/Contact.css'
 
 const Contact = () =>{
     return(
-        <div className='d-flex'>
+       <div>
+           <div>
+               <p className='about'>Contact</p><hr/>
+           </div>
+            <div className='d-flex'>
             <div className='contact'>
             <h1>Address</h1>
                 <p>FFS-53 First Floor RDA Complex, New Rajendra Nagar Raipur (C.G.)</p>
@@ -23,6 +27,7 @@ const Contact = () =>{
                 <p>If you have any query about our service please contact with us..</p>
             </div>
         </div>
+       </div>
     );
 };
 

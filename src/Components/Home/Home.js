@@ -12,7 +12,9 @@ const Home = () =>{
     } ,[])
     return(
         <div>
-            <h1 className='w-50 mx-auto'>Some Of Our Courses</h1>
+            <div>
+            <p className='about'>Some Of Our Courses</p><hr/>
+            </div>
            <div className='container'>
            {
                  courses.map(course => <Course key={course.name} course={course}></Course>)
