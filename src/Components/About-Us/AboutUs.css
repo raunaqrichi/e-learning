@@ -1,6 +1,8 @@
 
 .card{
-    margin: 20px;
+    margin:auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
     padding: 10px;
     box-shadow: 5px 5px 5px rgb(27, 127, 167);
     width: 700px;

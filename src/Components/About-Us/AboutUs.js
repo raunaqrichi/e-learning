@@ -7,7 +7,7 @@ const AboutUs = () =>{
            <div className='about'>
                <p>About Us</p>
            </div><hr/>
-            <div className='d-flex'>
+            <div>
             
             <div className=' card'>
                    <h1 className='name'>Our Vision</h1>
