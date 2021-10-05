@@ -1,8 +1,9 @@
+
 .card{
-    margin: 10px;
+    margin: 20px;
     padding: 10px;
     box-shadow: 5px 5px 5px rgb(27, 127, 167);
-    width: 800px;
+    width: 700px;
     text-align: center;
     
 }

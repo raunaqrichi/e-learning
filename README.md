@@ -6,5 +6,5 @@ This project was bootstrapped with [E-Learning](https://infallible-albattani-e96
 
 1. It is a Educational website.
 2. You can learn many courses from this site.
-3. Its very usuful to develop your skill.
+3. It's very usufull to develop your skill.
 
